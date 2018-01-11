@@ -11,6 +11,3 @@ This is easy-to-follow Capsule Network tutorial with clean readable code: [Capsu
 [Part II: How Capsules Work.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)
 
 [Part III: Dynamic Routing Between Capsules.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-iii-dynamic-routing-between-capsules-349f6d30418)
-
-
-blah blah blah
